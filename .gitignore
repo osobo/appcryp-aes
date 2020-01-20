@@ -1,0 +1,10 @@
+*.out
+*.o
+*.a
+__pycache__
+inp-*
+rnd-dat
+exec*
+/*.inc
+galois-mult
+gen-sbox
